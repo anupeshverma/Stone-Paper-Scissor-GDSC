@@ -1,4 +1,4 @@
 
 # Stone Paper Scissor
 
-Try to implement code by yoursef
+Try to implement code by yourself
